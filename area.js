@@ -11,3 +11,4 @@ var s =(a+b+c)/2;
 const area = s*(s-a)*(s-b)*(s-c);
 const temp = Math.sqrt(area);
 console.log(temp);
+console.log(area);
