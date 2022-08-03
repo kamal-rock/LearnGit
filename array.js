@@ -123,7 +123,7 @@ console.log(fruits[2]);
 
 
 
-//life cycle method of components
+//life cycle method of components1
 
 // 1.getInitialState() - this is executed before the creation of the component
 // 2. componentDidmount() - is executed when the component gets rendedered and placed on the dom.
